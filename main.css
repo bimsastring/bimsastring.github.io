@@ -605,6 +605,7 @@ img {
 <!-- Navigation bar -->
 
 nav {
+  margin-right: 20px;
   padding: 0;
   overflow: hidden;
   background: #ffffff;
