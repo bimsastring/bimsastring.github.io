@@ -6,6 +6,10 @@
  * Licensed under the MIT license
  */
 
+html {
+  box-sizing: border-box;
+  font-size: 70%;
+}
 
 body {
 /*  color: #606c76;*/
