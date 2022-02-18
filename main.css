@@ -19,6 +19,8 @@ html {
 
 body {
 /*  color: #606c76;*/
+  margin: 60px auto;
+  width: 70%;
   color: black;
   font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   font-size: 1.6em;
