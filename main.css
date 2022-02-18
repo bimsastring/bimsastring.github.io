@@ -29,6 +29,11 @@ body {
   line-height: 1.6;
 }
 
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
 blockquote {
   border-left: 0.3rem solid #d1d1d1;
   margin-left: 0;
